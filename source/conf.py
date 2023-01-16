@@ -30,14 +30,7 @@ release = '0.0.0'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [
-    "sphinx.ext.autodoc",
-    "sphinx.ext.autosummary",
-    "sphinx_design",
-    "sphinx.ext.todo",
-    "numpydoc",
-    "sphinx_togglebutton",
-]
+extensions = []
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -53,7 +46,6 @@ exclude_patterns = []
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'pydata_sphinx_theme'
 #html_theme = 'alabaster'
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -61,22 +53,6 @@ html_theme = 'pydata_sphinx_theme'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-json_url = "https://raw.githubusercontent.com/pydata/pydata-sphinx-theme/main/docs/_static/switcher.json"
-
-html_theme_options = {
-    "show_nav_level": 4,
-    "show_toc_level": 3,                 
-    "logo": {
-        "alt_text": "PyData Theme",
-        "image_dark": "sepal_dark.png",
-        "image_light": "sepal_light.png"
-    },
-    "switcher": {"json_url": json_url, "version_match": "latest"},
-    "navbar_center": ["version-switcher", "navbar-nav"]
-}
-
-jupyterlite_bind_ipynb_suffix = False
-todo_include_todos = True
 locale_dirs = ['locale/']   # path is example but recommended.
 gettext_compact = False     # optional.
 language = "en"
