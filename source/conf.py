@@ -79,3 +79,4 @@ jupyterlite_bind_ipynb_suffix = False
 todo_include_todos = True
 locale_dirs = ['locale/']   # path is example but recommended.
 gettext_compact = False     # optional.
+language = "en"

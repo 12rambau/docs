@@ -19,13 +19,13 @@ msgstr ""
 
 #: ../../source/index.rst:2
 msgid "Index"
-msgstr ""
+msgstr "Table des matières"
 
 #: ../../source/index.rst:4
 msgid "This is a pet documetnation folder."
-msgstr ""
+msgstr "C'est une documentation de test."
 
 #: ../../source/index.rst:6
 msgid "This is a new sentence."
-msgstr ""
+msgstr "C'est une nouvelle phrase."
 
