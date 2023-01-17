@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: docstestpierrick\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-17 10:43+0100\n"
-"PO-Revision-Date: 2023-01-17 09:44\n"
+"PO-Revision-Date: 2023-01-17 09:45\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -20,9 +20,9 @@ msgstr ""
 
 #: ../../source/test.rst:2
 msgid "Test page"
-msgstr ""
+msgstr "Page de test"
 
 #: ../../source/test.rst:4
 msgid "I am a test page to see what happen when translation is missing."
-msgstr ""
+msgstr "Je suis une page de test pour voir ce qui se passe quand la traduction est manquante."
 
