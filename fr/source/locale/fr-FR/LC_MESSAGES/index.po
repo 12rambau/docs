@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: docstestpierrick\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-16 17:42+0100\n"
+"PO-Revision-Date: 2023-01-17 09:10\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: docstestpierrick\n"
+"X-Crowdin-Project-ID: 561969\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /main/source/locale/en/LC_MESSAGES/index.po\n"
+"X-Crowdin-File-ID: 77\n"
+"Language: fr_FR\n"
+
+#: ../../source/index.rst:2
+msgid "Index"
+msgstr "Table des matières"
+
+#: ../../source/index.rst:4
+msgid "This is a pet documetnation folder."
+msgstr "Il s'agit d'un dossier de documentation de test."
+
+#: ../../source/index.rst:6
+msgid "This is a new sentence."
+msgstr "Il s'agit d'une nouvelle phrase."
+
