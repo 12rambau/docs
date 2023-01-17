@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: docstestpierrick\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-16 17:42+0100\n"
-"PO-Revision-Date: 2023-01-17 09:09\n"
+"PO-Revision-Date: 2023-01-17 09:10\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -20,13 +20,13 @@ msgstr ""
 
 #: ../../source/index.rst:2
 msgid "Index"
-msgstr ""
+msgstr "Table des matières"
 
 #: ../../source/index.rst:4
 msgid "This is a pet documetnation folder."
-msgstr ""
+msgstr "Il s'agit d'un dossier de documentation de test."
 
 #: ../../source/index.rst:6
 msgid "This is a new sentence."
-msgstr ""
+msgstr "Il s'agit d'une nouvelle phrase."
 
