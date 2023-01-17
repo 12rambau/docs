@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: docstestpierrick\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-17 11:23+0100\n"
-"PO-Revision-Date: 2023-01-17 10:24\n"
+"PO-Revision-Date: 2023-01-17 10:26\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -20,9 +20,9 @@ msgstr ""
 
 #: ../../source/folder/nested.rst:2
 msgid "A nested file"
-msgstr ""
+msgstr "Un fichier imbriqué"
 
 #: ../../source/folder/nested.rst:4
 msgid "Check how crowdin and gettext behave with nested files."
-msgstr ""
+msgstr "Vérifiez comment crowdin et gettext se comportent avec des fichiers imbriqués."
 
